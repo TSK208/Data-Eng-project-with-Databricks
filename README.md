@@ -1,1 +1,1 @@
-# Azure E2E data eng project- databricks
+# Azure E2E data eng project (Earthquake data pipeline)- databricks
